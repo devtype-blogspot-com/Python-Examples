@@ -1,0 +1,12 @@
+first name,last name,module1,module2,module3,description
+student,best,100,100,100,Excellent score
+student,good,90,"90,2",100,"Good score
+but could do better"
+Greg,Dean,70,80,90,"Good job, Greg"
+Wirt,Wood,80,80.2,80,Nicely done
+Greg,Dean,70,80,90,"Good job, Greg"
+Wirt,Wood,80,80.2,80,Nicely done
+"Greg","Dean","70","80","90","Good job, Greg"
+"Wirt","Wood","80","80.2","80","Nicely done"
+"Greg","Dean",70,80,90,"Good job, Greg"
+"Wirt","Wood",80,80.2,80,"Nicely done"
