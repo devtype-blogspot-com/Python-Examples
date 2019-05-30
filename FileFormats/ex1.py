@@ -29,4 +29,5 @@ with open("Crimes.csv") as f:
                 count[primaryType] += 1
             else:
                 count[primaryType] = 0
-print(count)
+sorted_x = sorted(count.items(), key=lambda kv: kv[1],reverse=True)
+print(sorted_x[0])
